@@ -1,0 +1,15 @@
+tenancy_id           = "ToDo"
+user_id              = "ToDo"
+api_private_key_path = "/home/oracle/.oci/oci_api_key.pem"
+api_fingerprint      = "ToDo"
+region               = "ap-chuncheon-1"
+
+compartment_id = "ToDo"
+
+verrazzano_regions = {
+  home  = "us-ashburn-1" #replace with your tenancy's home region
+  admin = "ap-singapore-1"
+  icn   = "ap-seoul-1"
+  kix   = "ap-osaka-1"
+  yny   = "ap-chuncheon-1"
+}
