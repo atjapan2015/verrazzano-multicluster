@@ -1,0 +1,13 @@
+.idea/
+.terraform.lock.hcl
+.terraform/
+README.md
+generated/
+# main.tf
+# provider.tf
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+# v80mountputs.tf
+# v80mvariables.tf
+
